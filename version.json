@@ -1,7 +1,7 @@
 {
-  "version": 20261024100921,
-  "sha256": "f317ea418329f4026733b4acca9c96f3807a3404796c12fc0be37ae5f3077899",
-  "size": 2831111,
+  "version": 20261024112101,
+  "sha256": "8bf34e0801d3de38a2963cbae6d3fac0febe4d45196b2fa54f012787d67e0605",
+  "size": 2832506,
   "minApp": 3,
-  "sig": "MEUCIEggGPjOsj+pk5ijLoe9b/tNBLsLCq+ENoF7L8U2+FUKAiEA5i0XL4uBCzGy+lmZ3hu9wwq/JTt/7ZzT1MlBYRBGFtI="
+  "sig": "MEUCICpNHhYA4cImlTQ9qD93wf14A8GeLYVmwPlG1J8zyhWJAiEA5RsZKTKbkL998KDT1fUA1sdsUefkOjf/1xy9UTNt9GQ="
 }
